@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 300%;
+    color: #ffffff;
+    margin-top: 250px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    color: #ffffff;
+    margin-top: 100px;
+
+}
+
+input[type="url"] {
+    width: 70%;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin:  20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4b4c4d;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
